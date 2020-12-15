@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [CCD_CAM_BOARD.PrjPcb]
+   Generated File[CCD_CAM_BOARD_PCB_v3.TXT]
+   Generated File[CCD_CAM_BOARD_PCB_v3.LDP]
+   Generated File[CCD_CAM_BOARD_PCB_v3.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:11:57 On 09/11/2020

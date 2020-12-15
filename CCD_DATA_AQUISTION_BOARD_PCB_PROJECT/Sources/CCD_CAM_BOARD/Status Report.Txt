@@ -1,0 +1,12 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Free Documents]
+   Generated File[CCD_CAM_BOARD_PCB_v3.RUL]
+   Generated File[CCD_CAM_BOARD_PCB_v3.EXTREP]
+   Generated File[CCD_CAM_BOARD_PCB_v3.REP]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 00:08:27 On 09/11/2020

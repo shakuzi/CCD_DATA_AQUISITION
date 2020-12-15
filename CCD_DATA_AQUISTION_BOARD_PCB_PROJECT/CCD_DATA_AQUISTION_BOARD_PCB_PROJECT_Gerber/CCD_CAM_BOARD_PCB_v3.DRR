@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: CCD_CAM_BOARD_PCB_v3.PcbDoc   09/11/2020  10:11:56
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : CCD_CAM_BOARD_PCB_v3.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             20        PTH        0.00mm (0.00inch)
+T2      0.203mm (8mil)                                            Round             24        PTH        0.00mm (0.00inch)
+T3      0.3mm (12mil)                                             Round             584       PTH        0.00mm (0.00inch)
+T4      0.711mm (28mil)                                           Round             25        PTH        0.00mm (0.00inch)
+T5      3.5mm (138mil)                                            Round             4         PTH        0.00mm (0.00inch)
+T6      3.7mm (146mil)                                            Round             4         PTH        0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              661
+
+Total Processing Time (hh:mm:ss) : 00:00:01
